@@ -1,0 +1,9 @@
+image: 192.168.1.211:5000/node:4.x
+
+before_script:
+  - npm install
+
+job_lint:
+  script:
+    - npm run lint
+  stage: test

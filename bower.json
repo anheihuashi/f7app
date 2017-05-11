@@ -1,0 +1,33 @@
+{
+  "name": "june",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "roshanca <wwj1983@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "framework7": "latest",
+    "requirejs": "latest"
+  },
+  "overrides": {
+    "framework7": {
+      "main": [
+        "dist/css/framework7.ios.min.css",
+        "dist/css/framework7.ios.colors.min.css",
+        "dist/css/framework7.material.min.css",
+        "dist/css/framework7.material.colors.min.css",
+        "dist/js/framework7.min.js",
+        "dist/js/framework7.min.js.map"
+      ]
+    }
+  }
+}

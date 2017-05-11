@@ -1,0 +1,27 @@
+{
+  "name": "f7app",
+  "version": "1.1.0",
+  "description": "A starter project structure for Framework7 app using requireJS and Gulp",
+  "main": "app/",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint app"
+  },
+  "author": {
+    "name": "roshanca",
+    "email": "wwj1983@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.cairenhui.com/fit/f7app.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "eslint": "^3.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-less": "^3.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "main-bower-files": "^2.13.1"
+  }
+}

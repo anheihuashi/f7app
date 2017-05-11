@@ -1,0 +1,14 @@
+{
+  "error_no": 0,
+  "descriptions": [
+    {
+      "text": "Framework7 是一个开源免费的框架可以用来开发混合移动应用（原生和HTML混合）或者开发 iOS & Android 风格的WEB APP。也可以用来作为原型开发工具，可以迅速创建一个应用的原型。"
+    },
+    {
+      "text": "Framework7 最主要的功能是可以使用HTML、CSS和JS来开发iOS7应用。Framework7 是完全免费开源的。"
+    },
+    {
+      "text": "Framework7 并不能兼容所有的设备。她只专注于为 iOS 和 Google Material 设计提供最好的体验。"
+    }
+  ]
+}

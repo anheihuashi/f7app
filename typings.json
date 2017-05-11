@@ -1,0 +1,9 @@
+{
+  "name": "f7app",
+  "dependencies": {
+    "requirejs": "registry:npm/requirejs#2.2.0+20160319062357"
+  },
+  "devDependencies": {
+    "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160618213436"
+  }
+}

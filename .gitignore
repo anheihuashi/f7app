@@ -1,0 +1,16 @@
+# OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+bower_components/
+npm-debug.log
+
+# IDE
+.idea/
+.vscode/
+typings
